@@ -1,0 +1,9 @@
+.metadata/
+**/bin/
+**/target/
+**/build/
+*.class
+*.log
+.env
+.env.*
+!.env.exampleServers/Tomcat v10.1 Server at localhost-config/tomcat-users.xml
